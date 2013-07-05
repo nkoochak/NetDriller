@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE FUZZIFY SYSTEM "users.dtd">
+<FUZZIFY>
+    <TERM LABEL="mf0">
+        <FROM>8.0</FROM>
+        <R>8.7</R>
+        <TO>10.727272727272727</TO>
+    </TERM>
+    <TERM LABEL="mf1">
+        <FROM>8.7</FROM>
+        <R>10.727272727272727</R>
+        <TO>15.928571428571429</TO>
+    </TERM>
+    <TERM LABEL="mf2">
+        <FROM>10.727272727272727</FROM>
+        <R>15.928571428571429</R>
+        <TO>18.0</TO>
+    </TERM>
+</FUZZIFY>
